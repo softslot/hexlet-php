@@ -1,0 +1,16 @@
+{
+    "name": "saw/hexlet-php",
+    "description": "'PHP Hexlet'",
+    "autoload": {
+        "psr-4": {
+            "Saw\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Konstantin Korolenko",
+            "email": "sawnet@mail.ru"
+        }
+    ],
+    "require": {}
+}
