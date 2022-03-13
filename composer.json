@@ -12,5 +12,7 @@
             "email": "sawnet@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
